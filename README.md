@@ -2,11 +2,13 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Ruijian   
 
-## Cognome: 
+## Cognome: Hu 
 
-## Matricola:
+## Matricola: 390632
 
 ## Commenti/modifiche al progetto:
+- Durante il combattimento i giocatori hanno la possibilità di schivare gli attacchi nemici, la percentuale di schivata è la somma tra la fortuna del giocatore e due tiri di D20
+- I giocatori vincitori vengono salvati nel file vincitori.txt come struct Vincitori, max 100
 
